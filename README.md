@@ -19,6 +19,7 @@ The goal of this assignment is to preprocess 3D mesh data for AI applications su
 ---
 
 ##  Project Structure
+```bash
 
 Mixar_Assignment_PrejanRajaS/
 │
@@ -37,8 +38,7 @@ Mixar_Assignment_PrejanRajaS/
 ├── README.md # This file
 └── Final_Report_PrejanRajaS.pdf # Summarized report
 
-
----
+```
 
 ##  Setup Instructions (Google Colab)
 
