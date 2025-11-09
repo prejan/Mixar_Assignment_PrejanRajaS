@@ -31,10 +31,6 @@ Mixar_Assignment_PrejanRajaS/
 │ ├── *_unitsphere_recon.obj
 │ └── error_summary.csv
 │
-├── visualizations/ # Optional screenshots and error plots
-│ ├── error_plots/
-│ ├── mesh_screenshots/
-│
 ├── README.md # This file
 └── Final_Report_PrejanRajaS.pdf # Summarized report
 
